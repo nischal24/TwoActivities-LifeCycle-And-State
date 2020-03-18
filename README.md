@@ -1,7 +1,9 @@
 ![](log.PNG)
-![](Logcat.PNG)
-![](Main.png)
+![](Logcat.png)
+![](home.png)
+![](message.png)
 ![](Reply.png)
+![](Main.png)
 ![](MainL.png)
 ![](ReplyL.png)
 
